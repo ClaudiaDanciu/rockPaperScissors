@@ -1,0 +1,32 @@
+body {
+   
+    font-size: 18px;
+    background-color: #48245a;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+h1, h2 {
+    font-family: 'Caveat', cursive;  
+    font-weight: 100;
+}
+
+
+.warning {
+    color:red;
+}
+.email {
+    color: blue;
+}
+.choice {
+    color: red;
+}
+#source {
+    color: yellow;
+}
+#rock, #paper, #scissors {
+    display: inline-block;
+    weigth: 10px;
+}
